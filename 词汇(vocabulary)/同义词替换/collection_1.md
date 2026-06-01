@@ -8,3 +8,11 @@
 ## Date 08/08/2025
 
 1. reliable/trustworthy
+
+## Date 05/22/2026
+
+1. compel/force
+2. compelling/fascinating
+3. sense/feel
+4. rhythm/pace/melody
+5. vertical/longitudinal
