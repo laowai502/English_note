@@ -1,0 +1,117 @@
+# IELTS Academic Reading Practice 12 (Band 8.5, Near-Exam Style)
+
+## Passage: The Hidden Fragility of Just-in-Time Supply Chains
+
+### A
+For decades, just-in-time (JIT) production was treated as a hallmark of managerial efficiency. By minimizing inventories, firms reduced warehousing costs, improved cash flow, and increased pressure for operational discipline across suppliers. In stable conditions, the model delivered measurable gains. However, repeated disruptions in logistics, energy markets, and geopolitics have revealed a structural weakness: systems optimized for average-case efficiency may be poorly configured for correlated shocks. What appears as "lean" in quarterly accounting can become brittle under stress.
+
+### B
+The logic of JIT assumes that variability can be buffered through information quality rather than physical stock. Digital tracking, demand forecasting, and synchronized contracts were expected to reduce uncertainty sufficiently for inventories to remain low. Yet uncertainty in modern production networks is not merely random noise; it is increasingly systemic. A port closure, semiconductor shortage, cyber incident, or sanctions event can propagate across sectors that seemed only loosely connected. Once disruptions become networked rather than local, informational coordination alone may not substitute for material slack.
+
+### C
+One reason fragility is underestimated is measurement practice. Corporate reporting typically captures inventory turnover and margin performance with high precision, while resilience is represented through qualitative language or occasional scenario exercises. This creates an asymmetry in governance: metrics tied to short-cycle financial performance are concrete and rewarded, whereas metrics tied to low-frequency disruption are uncertain and often discounted. As a result, organizations may rationally underinvest in contingency capacity even when executives publicly endorse resilience.
+
+### D
+Supplier concentration amplifies these risks. In many industries, procurement strategies have converged on narrow vendor pools to secure volume discounts and reduce transaction complexity. Such concentration can be efficient when supplier reliability is high, but it reduces substitution options when failure occurs. Multi-sourcing is frequently proposed as a remedy, yet it is not costless: qualifying additional suppliers requires technical harmonization, contractual redesign, and management overhead. Firms therefore face a strategic trade-off between ex ante efficiency and ex post recoverability.
+
+### E
+Geography introduces another layer. Global value chains were historically justified by comparative advantage and scale economies, but long-distance specialization can increase exposure to transport interruptions and regulatory divergence. Recent debates about "reshoring" or "friend-shoring" often present location strategy as binary. In practice, many firms adopt hybrid architectures: critical inputs are regionally diversified while non-critical components remain globally sourced. The objective is not autarky, but selective redundancy calibrated to failure consequences.
+
+### F
+Policy intervention has become more visible in this domain. Governments now use export controls, strategic stockpiles, domestic-content rules, and targeted subsidies to reshape supply-chain topology. Supporters argue that market signals alone cannot price national-security externalities. Critics warn that intervention can entrench inefficiency, invite retaliation, and fragment global standards. Both claims contain truth. The policy challenge is to distinguish resilience-enhancing intervention from protectionism disguised as risk management.
+
+### G
+At firm level, resilience programs often fail at implementation rather than diagnosis. Risk maps are produced, critical nodes identified, and board-level commitments announced, yet procurement incentives continue to reward lowest unit cost and shortest payback horizon. This governance misalignment is consequential. Unless budgeting, performance metrics, and contract design are adjusted, resilience plans remain declarative rather than operational. In organizational terms, fragility persists not because risks are unknown, but because decision rights and incentives are incoherent.
+
+### H
+Recent research suggests that robust supply systems are not those with maximal redundancy everywhere, but those with modular flexibility and credible fallback pathways. Excess redundancy can itself become inefficient and difficult to maintain, while zero slack is operationally unforgiving. The emerging consensus favors adaptive portfolios: diversified suppliers for critical inputs, transparent tier-two visibility, pre-negotiated emergency logistics, and periodic stress testing tied to investment decisions. In this view, resilience is less a fixed design choice than a governed capability.
+
+---
+
+## Questions 1-5
+
+### Matching Headings
+
+Choose the correct heading for paragraphs **B-F** from the list below.
+
+Write the correct number, **i-x**.
+
+List of Headings:
+
+i. Why quantitative reporting can bias strategic priorities  
+ii. The legal history of international antitrust exemptions  
+iii. Networked uncertainty and limits of information-only buffering  
+iv. Location strategies beyond the reshoring-versus-offshoring binary  
+v. The complete replacement of efficiency metrics by resilience metrics  
+vi. Supplier diversification as a costly insurance mechanism  
+vii. State intervention: security rationale versus protectionist risk  
+viii. Why warehousing costs always dominate procurement decisions  
+ix. The decline of digital tracking in modern logistics  
+x. Consumer sentiment as the main driver of supply shocks
+
+1. Paragraph B
+
+2. Paragraph C
+
+3. Paragraph D
+
+4. Paragraph E
+
+5. Paragraph F
+
+## Questions 6-10
+
+### YES / NO / NOT GIVEN
+
+Do the following statements agree with the claims of the writer?
+
+Write:
+- **YES** if the statement agrees with the claims of the writer
+- **NO** if the statement contradicts the claims of the writer
+- **NOT GIVEN** if it is impossible to say what the writer thinks
+
+6. The writer claims JIT systems are ineffective even in stable market conditions.
+
+7. The passage suggests that systemic disruptions can spread across sectors.
+
+8. The writer argues that multi-sourcing can be implemented without major coordination costs.
+
+9. The passage states that all forms of government intervention in supply chains improve resilience.
+
+10. The writer indicates resilience plans often fail because organizational incentives remain unchanged.
+
+## Questions 11-14
+
+### Summary Completion
+
+Complete the summary below.
+
+Choose **NO MORE THAN TWO WORDS** from the passage for each answer.
+
+Modern supply-chain fragility is linked to governance design as much as logistics. Firms often prioritize metrics like inventory turnover, while resilience receives weaker measurement and weaker rewards. This can produce systematic underinvestment in (11) `__________` capacity. Geographic redesign is rarely absolute; many firms retain global sourcing for non-critical inputs but build selective (12) `__________` for critical ones. At policy level, intervention may be justified by security externalities, but can also become disguised (13) `__________`. Researchers increasingly recommend adaptive systems that combine visibility, fallback planning, and periodic (14) `__________` connected to capital decisions.
+
+---
+
+## Quick Core Vocabulary
+
+- `correlated shocks` disruptions occurring together across linked systems
+- `ex ante / ex post` before the event / after the event
+- `friend-shoring` locating supply chains in politically aligned countries
+- `decision rights` authority to make operational and strategic choices
+- `modular flexibility` ability to reconfigure parts without system-wide failure
+
+
+1. iii
+2. v (i)
+3. vi
+4. iv
+5. vii
+6. T (F)
+7. F (T)
+8. F
+9. F
+10. T
+11. contingency capacity
+12. redundancy
+13. protectionism
+14. stress testing
