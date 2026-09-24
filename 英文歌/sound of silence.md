@@ -16,7 +16,7 @@ Lyrics:
 9. Neath the halo of street light
 10. I turned my collar to the cold and damp
 11. When my eyes were stabbed, by a flash of the neon light
-12. And touched the sound of silence
+12. That split the night. And touched the sound of silence
 
 13. And in the naked light I saw
 14. Ten thousand people, maybe more
@@ -34,7 +34,7 @@ Lyrics:
 
 25. And the people bowed and prayed, to the neon god they made
 26. And the sign flashed out its warning
-27. In my words that I was forming
+27. In the words that it was forming
 28. And the sign said, the words of the prophets are written on the subway walls
 29. And tenement halls
 30. And whispered in the sound of silence.

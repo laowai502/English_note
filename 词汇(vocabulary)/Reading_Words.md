@@ -31,6 +31,12 @@
 * intuitively (instinctively)
 * sense (做动词时意识：感觉到，察觉到，意识到，与 feel 区别：feel 是身体感受+情感，sense 是直觉洞察，偏大脑) 
 * pragmatic 务实的；讲求实际的；实用主义的 (practical 实用的，实际的，切实可行的)
+* congestion
+* deceptively
+* emerge
+* contentious
+* corridor
+* narrative
 
 
 
@@ -74,3 +80,12 @@
 * nutritional
 * nutritious
 * malnutrition (opposite mean)
+
+* alien 外星人, 陌生的，外来的
+* alienate
+* alienated
+* alienation 疏离感
+* alienating
+* alienable
+* inalienable
+* alienage

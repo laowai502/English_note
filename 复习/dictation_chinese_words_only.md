@@ -38,7 +38,7 @@
 36. 大陆, 州, 陆地
 37. 库存，存货，财产清单
 38. 使惊吓，吓唬
-39. 物种(的
+39. 物种的
 40. 高山的，高山植物环境，尤指阿尔卑斯
 41. 橡胶
 42. 对应方; 职位（或作用）相当的人
@@ -70,3 +70,75 @@
 68. 抢劫, 盗窃, 掠夺
 69. 权力, 当局, 权威
 70. 刹车
+
+
+jawline
+pincer movement
+renewable
+
+Thanks for having me.
+genie
+genetic
+genetically
+
+
+
+threpy
+crab
+lobster
+clam
+scallop
+oyster
+mabolone
+
+see cucumber
+see urchin
+octopus
+squid
+
+
+
+caviar
+seewood
+cobblestone
+
+
+
+Silicon Valley
+isle
+valley/canyon
+continent
+inventory
+frighten
+species
+
+rubber
+
+
+roughly
+vague
+hot spring
+laser printer
+nurture
+introverted
+
+satellite
+
+
+casino
+hurricane
+playbook
+
+thankful
+
+
+
+
+
+
+bouquet
+revenue
+avenue
+robber
+authority
+brake
